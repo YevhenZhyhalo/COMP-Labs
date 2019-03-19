@@ -1,2 +1,0 @@
-# COMP-Labs
-my labs
